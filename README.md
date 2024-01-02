@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Amy
 
-<!--
-**amy-enn/amy-enn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web programming student (full stack), a veteran, a yogi, and a human multi-tool.
 
-Here are some ideas to get you started:
+I usually build with React/Javascript et al. but i have experience with other web frameworks and languages including 
+* SQL (♡).
+* Java (♡)
+* ASP.NET/C#
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience with web development and governance infrastructure in the crypto space.
+
+I love solving problems, creating stuff, and trying new things.
+
+### Thanks for stopping by!
