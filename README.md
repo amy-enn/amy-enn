@@ -18,7 +18,7 @@ I love solving problems, creating stuff, and trying new things.
 
 
 #### Some fun stuff I'm hacking my way through right now:
-* [interactive & creative data viz with P5.js](https://github.com/amy-enn/self-directed-p5)
+* [creative browser art and data viz with P5.js](https://github.com/amy-enn/self-directed-p5)
 * automation & file manipulation with Node scripting
 * exploring the Web Audio API
 
