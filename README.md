@@ -9,6 +9,7 @@ I love solving problems, creating stuff, and trying new things.
 * Java (♡)
 * ASP.NET/C#
 * Python
+* PHP (♡)
 * Basic Node scripting (♡)
 
 #### I also have experience with web development and governance infrastructure in the crypto space:
