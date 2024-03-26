@@ -10,7 +10,7 @@ I love solving problems, creating stuff, and trying new things.
 * ASP.NET/C#
 * Python
 * PHP (♡)
-* Basic Node scripting (♡)
+* WordPress (♡)
 
 #### I also have experience with web development and governance infrastructure in the crypto space:
 * Ethereum Javascript libraries: WAGMI/Viem/Ethers
