@@ -1,6 +1,6 @@
 ## Hi, I'm Amy 👋
 
-I'm a web programming student (full stack), a veteran, a yogi, and a human multi-tool.
+I'm a web programmer (full stack), a veteran, a yogi, and a human multi-tool.
 
 I love solving problems, creating stuff, and trying new things.
 
