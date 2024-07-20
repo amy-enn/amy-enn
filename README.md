@@ -19,9 +19,9 @@ I love solving problems, creating stuff, and trying new things.
 
 
 #### Some fun stuff I'm hacking my way through right now:
-* [creative browser art and data viz with P5.js](https://github.com/amy-enn/self-directed-p5)
 * automation & file manipulation with Node scripting
-* exploring the Web Audio API
+* exploring the built-in Web APIs, such as Web Audio and IndexedDB
+* Custom WordPress themes and Laravel applications with PHP
 
 #### Samples and deployment links to some of my work can be found in my portfolio [here](https://amy-enn.vercel.app).
 
