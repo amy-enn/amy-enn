@@ -6,16 +6,18 @@ I love solving problems, creating stuff, and trying new things.
 
 #### I usually build with React/Javascript et al. but i have experience with other web frameworks and languages including: 
 * SQL (♡)
-* Java (♡)
+* Java
 * ASP.NET/C#
 * Python
-* PHP (♡)
+* PHP & Laravel (♡)
 * WordPress (♡)
 
 #### I also have experience with web development and governance infrastructure in the crypto space:
 * Ethereum Javascript libraries: WAGMI/Viem/Ethers
 * Token standards & basic Ethereum smart contracts
 * ENS, Snapshot, Safe (formerly Gnosis), & other dApps & services
+* Arweave permanent onchain storage
+* Farcaster Frames protocol
 
 
 #### Some fun stuff I'm hacking my way through right now:
